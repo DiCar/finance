@@ -1,0 +1,17 @@
+# Ignore Anaconda environment directories
+/env/
+.conda/
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environments
+venv/
